@@ -17,3 +17,4 @@ Esta página demonstra como estruturar um layout básico e aplicar estilos com C
 - **CSS3** para a estilização e formatação do layout.
 
 ## Como visualizar o projeto
+[Visite a minha página no GitHub Pages](https://berticamila.github.io/letraspixels_site/)
